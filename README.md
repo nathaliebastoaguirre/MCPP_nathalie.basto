@@ -3,8 +3,8 @@
 
 
 
-<img src="wordcloud/wordcloud.png">
-
+<img src="bogota.png">
+<img src="Mapa Natha.png">
 ---
 
 ## Descripción y motivación 
