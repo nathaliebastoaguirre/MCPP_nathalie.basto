@@ -44,19 +44,16 @@ Con estas palabras se buscan recolctar sus frecuencias absolutas y relativas en 
 7. se hace nubes de palabras en R:
     - se usan librerias word cloud y TM.
     
+    Todos los archivos necesarios para replicar el ejericicio estan aca [here] (txt - copia.rar)
+    
 ## hallazgos 
 
-All code for analysis available [here](speeches_analysis.ipynb).
+Too el codigo para el analisis esta disponible [here] (Proyecto versión 1 - copia.ipynb)
 
 - La politica TIC tiene poca importancia relativa frente a otras politicas 
 
-Here some visualizations of key findings:
+Algunas visualizaciones:
 
-Ejemplo para cartagena
-<img src="i.png">
-
-dispersión de todos los planes de desarrollo en conjunto
-<img src="line_dispersion.png">
 
 soacha es el municipio con mas diversidad del lexico
 
