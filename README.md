@@ -66,7 +66,7 @@ importancia de alguna de las politicas relacionada con TIC
 importancia de alguna de las politicas relacionada con TIC por ciudad con salud y educación
 Ej: Chia
 <img src="chia.png">
-
+ispersión entre la politica de puntos vive digital de MinTIC y la importancia relativa de la politica TIC en el municipio
 <img src="penkvd.png">
 
 ---
